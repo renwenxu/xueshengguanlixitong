@@ -1,8 +1,8 @@
 # 学生管理系统 疫情 管控
-###所有代码都已经完成使用的是Spring+SpringMvc+Mybatis框架
-##SSM框架实现
-需要代码的可以加我的QQ：873015763
-或者我的wx
+### 所有代码都已经完成使用的是Spring+SpringMvc+Mybatis框架
+## SSM框架实现
+##### 需要代码的可以加我的QQ：873015763
+##### 或者我的wx
 ![输入图片说明](%E7%A7%81%E4%BA%BA%E5%BE%AE%E4%BF%A1.png)
 
 
